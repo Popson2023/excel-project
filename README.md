@@ -12,3 +12,7 @@ This project was done to help identify customer preferences, popular toppings, a
 * Recommendations: Drawing actionable insights from the analysis and suggesting strategies for improving sales, pricing, marketing, and inventory management.
 
 ## EXCEL DASHBOARD
+
+![Screenshot (447)](https://github.com/Popson2023/excel-project/assets/141573774/8b6a8afa-d569-4e47-b816-d636d9669f74)
+
+## Insights and recommendations
