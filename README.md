@@ -16,5 +16,5 @@ This project was done to help identify customer preferences, popular toppings, a
 ![Screenshot (447)](https://github.com/Popson2023/excel-project/assets/141573774/8b6a8afa-d569-4e47-b816-d636d9669f74)
 
 ## Insights and recommendations
-From the above visualization, we can notice that the North-east region has the highest revenue of regions for which sales were made the most in the regions. I recommend that areas like North-central focus more on their sales growth by bringing up innovative strategies like doing a certain amount of discounts on the goods and services. 
-From the above illustration, It's seen that the sales revenue for March to May for the two years were quite more profitable which is a good idea to get more goods available for the period to sell more. 
+* From the above visualization, we can notice that the North-east region has the highest revenue of regions for which sales were made the most in the regions. I recommend that areas like North-central focus more on their sales growth by bringing up innovative strategies like doing a certain amount of discounts on the goods and services. 
+* From the above illustration, It's seen that the sales revenue for March to May for the two years were quite more profitable which is a good idea to get more goods available for the period to sell more. 
